@@ -1,5 +1,5 @@
 ## 🔭 I’m currently working on ...
-Learning essential web development skills to begin a career in fullstack development. Currently I'm wrapping up my final two months at the Web Development Coding Bootcamp at Denver University. If you'd like to see some of my projects, **go ahead and visit my [!portfolio](https://jacksonwhite4725.github.io/portfolio-jackson-white/)!**
+Learning essential web development skills to begin a career in fullstack development. Currently I'm wrapping up my final two months at the Web Development Coding Bootcamp at Denver University. If you'd like to see some of my projects, **go ahead and visit my ![portfolio](https://jacksonwhite4725.github.io/portfolio-jackson-white/)!**
 
 ## 🌱 I’m currently learning ...
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
