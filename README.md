@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm the founder of [Launch Turtle](https://launchturtle.com), where we turn caffeine into code and dreams into digital reality. With a 4.0 GPA from the University of Denver's Web Development Program and an unhealthy obsession with perfect pixel alignment, I specialize in creating websites that make both users and search engines smile.
+Hey there! I'm the founder of [Launch Turtle](https://launchturtle.com), where we turn caffeine into code and dreams into digital reality. With a certification from the University of Denver's Web Development Program and an unhealthy obsession with perfect pixel alignment, I specialize in creating websites that make both users and search engines smile.
 
 ### 🐢 The Launch Turtle Philosophy
 
