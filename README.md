@@ -1,97 +1,133 @@
-<div align="center">
-  
-# 👋 Hi, I'm Jackson White
-### Chief Coffee Drinker & Full Stack Developer at Launch Turtle 🐢
+# Jackson White
 
-[![Website](https://img.shields.io/badge/Launch%20Turtle-22C55E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMNCA3djEwbDggNWw4LTV2LTEweiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+)](https://launchturtle.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-white-founder/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackson.white@launchturtle.com)
+## Full-Stack Web Developer | Business Strategist | Launch Turtle Founder
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Full+Stack+Development;React+%7C+Next.js+%7C+Node.js;Where+Code+Meets+Coffee+☕️;Daily+Updates%2C+Weekly+Calls;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-</div>
-
-## About Me
-
-Hey there! I'm the founder of [Launch Turtle](https://launchturtle.com), where we turn caffeine into code and dreams into digital reality. With a certification from the University of Denver's Web Development Program and an unhealthy obsession with perfect pixel alignment, I specialize in creating websites that make both users and search engines smile.
-
-### 🐢 The Launch Turtle Philosophy
-
-```javascript
-const launchTurtle = {
-  communication: "Daily updates, weekly calls, infinite memes",
-  speed: "Surprisingly fast for a turtle",
-  quality: "Pixel-perfect or it didn't happen",
-  coffee_consumption: Infinity
-};
-```
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & More
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-## Featured Projects
-
-### World Budo Arts
-A dynamic martial arts platform featuring custom CMS integration, events management, and seamless content delivery.
-- **Tech Stack:** React, Node.js, TailwindCSS, MongoDB, Strapi
-- **Timeline:** 3 weeks
-- [Visit Site](https://www.worldbudoarts.com/)
-
-### Treasure Tracker
-An innovative inventory management system with storytelling functionality.
-- **Tech Stack:** React, Node.js, TailwindCSS, PostgreSQL
-- **Timeline:** 2 weeks
-- [Visit Site](https://www.mytreasuretracker.com/)
-
-## What Sets Us Apart
-
-- **Daily Updates:** Because ghosting is for dating apps, not development projects
-- **Lightning Fast:** We're named after a turtle but move at rabbit speed
-- **Quality Guaranteed:** We don't rest until you're happy (and even then, we're probably still tweaking pixels)
-- **Caffeine Powered:** Our code is fueled by premium coffee and our fierce dedication to pixel perfection
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonWhite4725&theme=github-dark&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak Stats">
-</div>
-
-## Let's Connect!
-
-Whether you need a website that loads faster than my coffee maker or just want to chat about the perfect pixel-to-caffeine ratio, I'm always up for a good conversation!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMNCA3djEwbDggNWw4LTV2LTEweiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+)](https://www.launchturtle.com/portfolio)
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-4A5568?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/jackson-white-launchturtle/launch-turtle-discovery)
-
-</div>
+Building lightning-fast, conversion-optimized websites that drive real business results.
 
 ---
 
-<div align="center">
-  <sub>Built with ☕️ and 💚 by Jackson White</sub>
-</div>
+### About Me
+
+I'm Jackson White, the founder of [Launch Turtle](https://launchturtle.com) — a web development practice that combines business acumen with technical excellence. My unique background bridges the gap between economics, startup experience, and full-stack development.
+
+**Education & Foundation:**
+- **Economics & Finance** - University of Colorado Boulder
+- **International Business Experience** - NYU Shanghai 
+- **Full-Stack Web Development** - University of Denver Bootcamp
+- **Real-World Business Experience** - 3+ years building Treasure Tracker (startup)
+
+### What I Bring to the Table
+
+**Business-First Development Approach:**
+- Former startup founder who understands real business challenges
+- Economics background ensures every technical decision drives measurable ROI
+- 5+ years of development experience with enterprise-grade solutions
+- Obsession with performance that translates to higher conversion rates
+
+**Technical Expertise:**
+- **Frontend:** Astro, Next.js, React, TypeScript - optimized for speed and accessibility
+- **Backend:** Strapi CMS, PostgreSQL, Node.js APIs
+- **Cloud Infrastructure:** AWS, Vercel, Railway, Cloudflare CDN
+- **Email Services:** Mailchimp, SendGrid integration
+- **Performance:** Consistently achieving 90+ PageSpeed scores
+- **Accessibility:** ADA compliance built-in from day one
+
+### Core Specializations
+
+#### Performance Optimization
+- Static-first architecture with zero unnecessary JavaScript
+- Advanced image optimization and lazy loading
+- CDN integration for global speed
+- **Result:** 90+ PageSpeed scores guaranteed
+
+#### Custom Web Development
+- Hand-coded websites, never templates
+- Conversion-focused design principles
+- Mobile-first, responsive development
+- ADA-compliant accessibility standards
+
+#### Business Growth Focus
+- Strategic user experience design
+- SEO-optimized from launch
+- Integration with marketing tools and analytics
+- Daily communication and progress updates
+
+#### Security & Maintenance
+- Enterprise-grade security implementation
+- Ongoing maintenance and hosting solutions
+- Regular updates and performance monitoring
+- Proactive issue resolution
+
+### The Launch Turtle Difference
+
+**Why I Started Launch Turtle:**
+After building my own startup for 3 years, I experienced every frustration businesses face with traditional web agencies:
+- Lack of business understanding
+- Poor communication
+- Slow performance
+- Complex, unmaintainable code
+- No focus on conversion optimization
+
+Launch Turtle was built to solve these exact problems.
+
+**My Approach:**
+- **Daily Communication:** Updates guaranteed, not optional
+- **Business Results:** Every feature designed to drive measurable growth
+- **Performance Obsessed:** 90+ PageSpeed scores, every time
+- **Real Experience:** Startup founder who understands your challenges
+- **Fast Delivery:** 3-4 week timelines for complete websites
+
+### Track Record
+
+- **90+ PageSpeed Scores:** Achieved on every project
+- **3x Better Conversion Rates:** Compared to template-based solutions
+- **3-4 Week Delivery:** From concept to launch
+- **100% ADA Compliance:** Protecting businesses from accessibility lawsuits
+- **5+ Years:** Full-stack development experience
+- **3+ Years:** Real startup experience building Treasure Tracker
+
+### Technical Stack
+
+**Frontend Excellence:**
+- Astro (Static-first framework)
+- Next.js (Full-stack React)
+- React (Component-based UI)
+- TypeScript (Type-safe development)
+
+**Backend & Data:**
+- Strapi CMS (Headless content management)
+- PostgreSQL (Advanced relational database)
+- RESTful APIs (Clean, documented endpoints)
+
+**Cloud Infrastructure:**
+- AWS (Comprehensive cloud platform)
+- Vercel (Edge deployment)
+- Railway (Modern app hosting)
+- Cloudflare (CDN & security)
+
+**Integration & Services:**
+- Mailchimp (Email marketing)
+- SendGrid (Transactional emails)
+- Analytics & SEO tools
+- Payment processing
+
+### Current Focus
+
+As the founder of Launch Turtle, I'm dedicated to:
+- Building websites that actually drive business growth
+- Maintaining the highest performance standards in the industry
+- Providing the communication and support businesses deserve
+- Helping growing companies succeed online
+
+### Let's Build Something Amazing
+
+**Ready to work with a developer who understands business?**
+
+- **Website:** [launchturtle.com](https://launchturtle.com)
+- **Email:** hello@launchturtle.com
+- **Schedule a Call:** [calendly.com/jackson-white-launchturtle](https://calendly.com/jackson-white-launchturtle/launch-turtle-discovery)
+- **Location:** Denver, Colorado
+
+---
+
+*Building the future, one high-performance website at a time.*
