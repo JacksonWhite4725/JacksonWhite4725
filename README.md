@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff41&size=24&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;15%2B+websites+%7C+Zero+unhappy+clients;WCAG+2.2+AA+accessibility+champion;85%2B+performance+scores+on+every+site;Currently+developing+from+Osaka%2C+Japan;Denver+native+living+the+async+dream)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff41&size=24&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;15%2B+business+websites+built;WCAG+2.2+AA+accessibility+advocate;85%2B+performance+scores+on+every+site;Currently+developing+from+Osaka%2C+Japan)
 
 </div>
 
@@ -15,7 +15,7 @@
 │   "name": "Jackson White",                                 │
 │   "location": "Osaka, Japan",                              │
 │   "origin": "Denver, Colorado",                            │
-│   "specialization": "ADA/EAA compliant full-stack dev",    │
+│   "specialization": "Full-stack dev",                      │
 │   "client_satisfaction": "100%",                           │
 │   "performance_scores": "85+ on every site",               │
 │   "websites_built": "15+",                                 │
