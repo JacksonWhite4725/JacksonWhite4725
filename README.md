@@ -1,28 +1,27 @@
 <!-- ============================================================
-     JACKSON WHITE — GitHub Profile README
+     JACKSON WHITE — GitHub Profile README v2
      Tokyo Corporate Cyberpunk · March 2026
      ============================================================ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%C2%B7+Tokyo%2C+Japan;Next.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Django;i18n+%2F+l10n+%C2%B7+WCAG+2.2+AA+%C2%B7+90%2B+Lighthouse;Spousal+visa+%C2%B7+Available+immediately+in+Tokyo" alt="Jackson White — Full-Stack Developer, Tokyo" />
+<!-- Custom SVG banner — no external generator dependency -->
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" fill="#0F172A"/>
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#334155" stroke-width="1"/>
+  <line x1="0" y1="119" x2="800" y2="119" stroke="#334155" stroke-width="1"/>
+  <rect x="0" y="0" width="4" height="120" fill="#06B6D4"/>
+  <text x="36" y="46" font-family="'Segoe UI', system-ui, sans-serif" font-size="30" font-weight="700" fill="#E2E8F0" letter-spacing="1">Jackson White</text>
+  <text x="36" y="74" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#06B6D4" letter-spacing="2">ジャクソン・ホワイト</text>
+  <text x="36" y="100" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#64748B" letter-spacing="1">Full-Stack Developer  ·  Setagaya, Tokyo  ·  Spousal Visa — No Sponsorship Required</text>
+</svg>
 
-<br/>
+<br/><br/>
 
-# Jackson White
-
-### ジャクソン・ホワイト
-
-`Full-Stack Developer` &nbsp;·&nbsp; `Setagaya, Tokyo` &nbsp;·&nbsp; `Spousal Visa — No Sponsorship Required`
-
-Available for full-time, in-office roles in Tokyo&nbsp;&nbsp;|&nbsp;&nbsp;東京でのフルタイム・オフィス勤務を希望
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/jackson.dev-Portfolio-06B6D4?style=flat-square&labelColor=0F172A&color=06B6D4)](https://jackson.dev)&nbsp;
-[![Email](https://img.shields.io/badge/Email-jackson.white%40launchturtle.com-06B6D4?style=flat-square&labelColor=0F172A&color=06B6D4)](mailto:jackson.white@launchturtle.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=flat-square&logo=linkedin&logoColor=06B6D4&labelColor=0F172A&color=0F172A)](https://linkedin.com/in/jackson-white-dev)&nbsp;
-[![Launch Turtle](https://img.shields.io/badge/Launch%20Turtle-Studio-06B6D4?style=flat-square&labelColor=0F172A&color=0F172A)](https://launchturtle.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jackson.dev-06B6D4?style=flat-square&labelColor=0F172A)](https://jackson.dev)&nbsp;
+[![Email](https://img.shields.io/badge/Email-jackson.white%40launchturtle.com-06B6D4?style=flat-square&labelColor=0F172A&logo=gmail&logoColor=06B6D4)](mailto:jackson.white@launchturtle.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=flat-square&labelColor=0F172A&logo=linkedin&logoColor=06B6D4)](https://linkedin.com/in/jackson-white-dev)&nbsp;
+[![Launch Turtle](https://img.shields.io/badge/Studio-launchturtle.com-06B6D4?style=flat-square&labelColor=0F172A)](https://launchturtle.com)
 
 </div>
 
@@ -30,232 +29,142 @@ Available for full-time, in-office roles in Tokyo&nbsp;&nbsp;|&nbsp;&nbsp;東京
 
 ---
 
-<!-- PROFILE BLOCK -->
+## About · プロフィール
 
-```yaml
-# jackson_white · profile.yaml
+Full-stack developer based in Setagaya, Tokyo. I build production web applications with a focus on multilingual architecture, accessibility, and performance — and I hold myself to measurable standards: 90+ Lighthouse scores and WCAG 2.2 AA compliance on every project I ship.
 
-identity:
-  location:       "Setagaya, Tokyo, Japan"
-  visa:           "Spousal visa — no sponsorship required"
-  availability:   "Full-time, in-office · Tokyo"
-  languages:      [ "English (native)", "Japanese (conversational/basic, daily use)" ]
+世田谷区在住のフルスタックエンジニアです。多言語対応（i18n/l10n）、アクセシビリティ（WCAG 2.2 AA）、パフォーマンス最適化を専門とし、すべてのプロジェクトでLighthouseスコア90以上を達成しています。
 
-currently:
-  role:           "Founder & Lead Developer @ Launch Turtle"
-  building:       [ "Launch Turtle (web development studio)", "VaultTag (home inventory SaaS)" ]
-  seeking:        "Full-stack engineering roles at Tokyo tech companies"
+I founded and run two companies: **Launch Turtle**, a web development studio serving clients across the US and Japan, and **VaultTag**, a home inventory and legacy preservation platform. Both are in active operation.
 
-background:
-  experience:     "5+ years building production web applications"
-  founded:        [ "Launch Turtle LLC", "VaultTag / Treasure Tracker LLC" ]
-  education:
-    - "NYU Shanghai — Finance (2018–2020)"
-    - "University of Colorado Boulder — Economics"
-    - "University of Denver — Web Development"
-  international:  [ "US", "Japan", "Cambodia" ]
-```
+**Launch Turtle**（ウェブ開発スタジオ）と**VaultTag**（ホームインベントリSaaS）という2つの会社を設立・運営しています。フロントエンドからバックエンド、モバイル開発まで一貫して担当できます。
 
-<br/>
+Currently seeking full-time, in-office engineering roles at Tokyo-based tech companies. I am on a spousal visa — no sponsorship required, available immediately. My Japanese is conversational and I use it daily; I am committed to professional fluency.
+
+東京のテック企業でのフルタイム・オフィス勤務の機会を積極的に探しています。配偶者ビザを保有しており、スポンサーは不要です。すぐに就業可能です。日本語は日常的に使用しており、ビジネスレベルを目指して継続的に学習中です。
 
 ---
 
-<!-- STATS -->
-
-## Stats &nbsp;·&nbsp; 実績
+## Stats · 実績
 
 <div align="center">
 
 | &nbsp; | &nbsp; |
 |:---|:---|
-| **5+** years of production web development | **90+** Lighthouse scores across all builds |
-| **15+** client projects across 4 countries | **2** companies founded and operating |
-| **WCAG 2.2 AA** on every project delivered | **4-language i18n** — EN / JA / KO / ZH |
+| 5+ years of production web development · 5年以上の本番開発経験 | 2 companies founded and operating · 2社設立・運営中 |
+| 15+ client projects across 4 countries · 4カ国15件以上の納品実績 | 90+ Lighthouse scores across all builds · 全プロジェクトで90以上 |
+| WCAG 2.2 AA compliance on every project · 全案件でWCAG準拠 | EN / JA bilingual, i18n in production · 日英対応・多言語実装済み |
 
 </div>
 
-<br/>
-
 ---
 
-<!-- TECH STACK -->
+## Stack · 技術スタック
 
-## Stack &nbsp;·&nbsp; 技術スタック
-
-**Frontend**
+**フロントエンド / Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=06B6D4)
 ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=06B6D4)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=06B6D4)
 ![Astro](https://img.shields.io/badge/Astro-0F172A?style=flat-square&logo=astro&logoColor=06B6D4)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0F172A?style=flat-square&logo=framer&logoColor=06B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=06B6D4)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=06B6D4)
 
-**Backend**
+**バックエンド / Backend**
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4)
 ![Django](https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django&logoColor=06B6D4)
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=06B6D4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=06B6D4)
 ![Strapi](https://img.shields.io/badge/Strapi-0F172A?style=flat-square&logo=strapi&logoColor=06B6D4)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square&logoColor=06B6D4)
 
-**Mobile**
+**モバイル / Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=06B6D4)
 ![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=06B6D4)
 ![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=06B6D4)
 
-**Cloud & Infrastructure**
+**インフラ / Cloud & Infrastructure**
 
 ![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=06B6D4)
 ![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=06B6D4)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0F172A?style=flat-square&logo=cloudflare&logoColor=06B6D4)
 ![Railway](https://img.shields.io/badge/Railway-0F172A?style=flat-square&logo=railway&logoColor=06B6D4)
 
-**i18n / Accessibility / AI**
+**i18n · アクセシビリティ · AI**
 
 ![next-intl](https://img.shields.io/badge/next--intl-0F172A?style=flat-square&logoColor=06B6D4)
-![WCAG 2.2 AA](https://img.shields.io/badge/WCAG%202.2%20AA-0F172A?style=flat-square&logoColor=06B6D4)
-![Claude API](https://img.shields.io/badge/Claude%20API-0F172A?style=flat-square&logoColor=06B6D4)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-0F172A?style=flat-square&logo=openai&logoColor=06B6D4)
-
-<br/>
+![WCAG 2.2 AA](https://img.shields.io/badge/WCAG_2.2_AA-0F172A?style=flat-square&logoColor=06B6D4)
+![Claude API](https://img.shields.io/badge/Claude_API-0F172A?style=flat-square&logoColor=06B6D4)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0F172A?style=flat-square&logo=openai&logoColor=06B6D4)
 
 ---
 
-<!-- SELECTED WORK -->
+## Selected Work · 制作実績
 
-## Selected Work &nbsp;·&nbsp; 制作実績
+**[VaultTag](https://vaulttag.com)** — Co-Founder & Lead Developer · Denver, CO
 
-<details open>
-<summary><strong>VaultTag (Treasure Tracker)</strong> &nbsp;—&nbsp; Co-Founder & Lead Developer &nbsp;·&nbsp; Denver, CO</summary>
+ホームインベントリとレガシー保存のSaaSプラットフォーム。2021年のMarshall Fireをきっかけに設立。iOS/Androidアプリとウェブの両方で、コンセプトから本番環境まで一貫して開発・運営しています。B2Bパートナー連携（CareNext Health）やUGCコンテンツ戦略も担当。
 
-<br/>
+Home inventory and legacy preservation platform, built in direct response to the 2021 Marshall Fire. Architected and developed end-to-end across mobile and web. Includes B2B partner integrations and a UGC content strategy.
 
-Home inventory and legacy preservation platform, founded in response to the 2021 Marshall Fire. Evolved from pure inventory tracking into a storytelling and family legacy product. Built end-to-end across mobile and web.
-
-`Flutter` &nbsp;`Django` &nbsp;`Firebase` &nbsp;`Astro` &nbsp;`Stripe` &nbsp;`Divio`
-
-- Architecture, full-stack development, and all product pivots from concept through current form
-- B2B partner pitch development — CareNext Health DME documentation use case
-- UGC content strategy and organic marketing implementation
-
-[vaulttag.com](https://vaulttag.com)
-
-</details>
+`Flutter` · `Django` · `Firebase` · `Astro` · `Stripe` · `Divio`
 
 ---
 
-<details open>
-<summary><strong>Launch Turtle</strong> &nbsp;—&nbsp; Founder & Developer &nbsp;·&nbsp; Remote (Tokyo-based)</summary>
+**[Launch Turtle](https://launchturtle.com)** — Founder & Developer · Remote (Tokyo-based)
 
-<br/>
+ウェブ開発スタジオ。このスタジオサイト自体が、EN/JA対応・WCAG 2.2 AA準拠・Lighthouseスコア90以上という、提供サービスのライブデモになっています。長編SEO記事10本以上を公開済み。
 
-Web development studio serving SMBs and startups in the US and Japan. The company site is itself a live demonstration of multilingual capability, accessibility standards, and performance targets.
+The studio site is a live demonstration of multilingual routing (EN/JA), accessibility compliance, and performance standards. 10+ long-form SEO articles published.
 
-`Astro` &nbsp;`React` &nbsp;`TypeScript` &nbsp;`Strapi CMS` &nbsp;`Vercel` &nbsp;`Cloudflare`
-
-- 4-language i18n implementation (EN / JA / KO / ZH) — live in production
-- WCAG 2.2 Level AA compliance across all pages
-- 90+ Lighthouse scores; Core Web Vitals optimized
-- 10+ long-form SEO articles published
-
-[launchturtle.com](https://launchturtle.com)
-
-</details>
+`Astro` · `React` · `TypeScript` · `Strapi CMS` · `Vercel` · `Cloudflare`
 
 ---
 
-<details>
-<summary><strong>World Budo Arts</strong> &nbsp;—&nbsp; Lead Developer &nbsp;·&nbsp; Dover, DE</summary>
+**[World Budo Arts](https://www.worldbudoarts.com)** — Lead Developer · Dover, DE
 
-<br/>
+武道コンテンツのデジタルプラットフォーム。カスタム動画統合システム、カテゴリフィルター、Sanity.io CMSによるブログを実装。全ページでPageSpeed 90以上を達成。
 
-Digital martial arts platform with custom blog system, video embedding, multi-page architecture, and full mobile optimisation.
+Digital martial arts platform with custom video integration, category filtering, and a hand-coded blog via Sanity.io CMS. 90+ PageSpeed across all pages.
 
-`Astro` &nbsp;`React` &nbsp;`TypeScript` &nbsp;`Sanity.io` &nbsp;`Cloudflare CDN`
-
-- Custom video integration with category filtering
-- Hand-coded blog via Sanity.io headless CMS
-- 90+ PageSpeed across all pages
-
-[worldbudoarts.com](https://www.worldbudoarts.com)
-
-</details>
+`Astro` · `React` · `TypeScript` · `Sanity.io` · `Cloudflare CDN`
 
 ---
 
-<details>
-<summary><strong>Sandstone Travels</strong> &nbsp;—&nbsp; Lead Developer &nbsp;·&nbsp; Siem Reap, Cambodia</summary>
+**[Sandstone Travels](https://www.sandstonetravels.com)** — Lead Developer · Siem Reap, Cambodia
 
-<br/>
+カンボジアを拠点とする高級旅行会社のウェブサイト。時差を超えた国際プロジェクト管理と、カスタム予約照会システム（メール自動化付き）を実装。ローンチ後、問い合わせ件数が大幅に増加。
 
-Luxury travel booking and inquiry platform for a Cambodia-based tour operator. International project demonstrating cross-timezone client management and non-US/Japan market delivery.
+Luxury travel booking platform for a Cambodia-based operator. Custom inquiry system with email automation. Significant increase in booking inquiries post-launch.
 
-`Astro` &nbsp;`React` &nbsp;`TypeScript` &nbsp;`SendGrid`
-
-- Custom tour inquiry and booking system with email automation
-- Client reported significant increase in booking inquiries post-launch
-
-[sandstonetravels.com](https://www.sandstonetravels.com)
-
-</details>
+`Astro` · `React` · `TypeScript` · `SendGrid`
 
 ---
 
-<details>
-<summary><strong>Additional Projects</strong> &nbsp;—&nbsp; Blue Barn Farms · Rocky Mountain Handyworks · SOLAGAPE · Ulrich Semi Consulting</summary>
+More at [jackson.dev/work](https://jackson.dev/work) — Blue Barn Farms · Rocky Mountain Handyworks · SOLAGAPE · Ulrich Semi Consulting
 
-<br/>
-
-All built on the same foundation: Astro + React + TypeScript, 90+ Lighthouse scores, WCAG 2.2 AA compliance, and Cloudflare CDN. Full case studies at [jackson.dev/work](https://jackson.dev/work).
-
-</details>
-
-<br/>
+その他の案件は [jackson.dev/work](https://jackson.dev/work) をご覧ください。
 
 ---
-
-<!-- GITHUB STATS -->
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonwhitedev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0&ring_color=06B6D4)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonwhitedev&layout=compact&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonwhite4725&show_icons=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0&ring_color=06B6D4)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonwhite4725&layout=compact&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0)
 
 </div>
 
-<br/>
-
 ---
-
-<!-- JAPANESE SECTION -->
-
-## 日本語で
-
-世田谷区在住のフルスタックエンジニアです。配偶者ビザを取得しており、スポンサーは不要です。
-
-Launch Turtle（ウェブ開発スタジオ）とVaultTag（ホームインベントリSaaS）という2つの会社を設立・運営してきました。フロントエンドからバックエンド、モバイル開発まで一貫して担当できます。多言語対応（i18n/l10n）やアクセシビリティ（WCAG 2.2 AA）を専門とし、すべてのプロジェクトでLighthouseスコア90以上を達成しています。
-
-日本語は日常的に使用しており、ビジネスレベルを目指して継続的に学習中です。東京のテック企業でのフルタイム・オフィス勤務の機会を積極的に探しています。
-
-<br/>
-
----
-
-<!-- FOOTER -->
 
 <div align="center">
 
-**[jackson.dev](https://jackson.dev)** &nbsp;·&nbsp; Setagaya, Tokyo, Japan &nbsp;·&nbsp; jackson.white@launchturtle.com
+**[jackson.dev](https://jackson.dev)** · Setagaya, Tokyo · jackson.white@launchturtle.com
 
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=jacksonwhitedev&style=flat-square&color=06B6D4&label=profile+views&labelColor=0F172A)
+![Profile views](https://komarev.com/ghpvc/?username=jacksonwhite4725&style=flat-square&color=06B6D4&label=profile+views&labelColor=0F172A)
 
 </div>
