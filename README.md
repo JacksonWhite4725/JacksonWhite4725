@@ -5,15 +5,62 @@
 
 <div align="center">
 
-<!-- Custom SVG banner — no external generator dependency -->
-<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="120" fill="#0F172A"/>
+<!-- Custom SVG banner — Tokyo Corporate Cyberpunk -->
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+    <linearGradient id="fadeRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="60%" stop-color="#0F172A" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0891B2" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base -->
+  <rect width="800" height="160" fill="#0F172A"/>
+
+  <!-- Grid background -->
+  <rect width="800" height="160" fill="url(#grid)"/>
+
+  <!-- Right-side fade to mask grid edge -->
+  <rect width="800" height="160" fill="url(#fadeRight)"/>
+
+  <!-- Top + bottom border lines -->
   <line x1="0" y1="0" x2="800" y2="0" stroke="#334155" stroke-width="1"/>
-  <line x1="0" y1="119" x2="800" y2="119" stroke="#334155" stroke-width="1"/>
-  <rect x="0" y="0" width="4" height="120" fill="#06B6D4"/>
-  <text x="36" y="46" font-family="'Segoe UI', system-ui, sans-serif" font-size="30" font-weight="700" fill="#E2E8F0" letter-spacing="1">Jackson White</text>
-  <text x="36" y="74" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#06B6D4" letter-spacing="2">ジャクソン・ホワイト</text>
-  <text x="36" y="100" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" fill="#64748B" letter-spacing="1">Full-Stack Developer  ·  Setagaya, Tokyo  ·  Spousal Visa — No Sponsorship Required</text>
+  <line x1="0" y1="159" x2="800" y2="159" stroke="#334155" stroke-width="1"/>
+
+  <!-- Left accent bar — full height -->
+  <rect x="0" y="0" width="4" height="160" fill="url(#accentGlow)"/>
+
+  <!-- Teal corner accent — top left -->
+  <rect x="4" y="0" width="60" height="2" fill="#06B6D4" opacity="0.6"/>
+
+  <!-- Hanko circle — right side -->
+  <circle cx="718" cy="80" r="52" fill="none" stroke="#06B6D4" stroke-width="1.5" opacity="0.15"/>
+  <circle cx="718" cy="80" r="44" fill="none" stroke="#06B6D4" stroke-width="0.75" opacity="0.25"/>
+  <!-- Vertical line through hanko (seal divider) -->
+  <line x1="718" y1="36" x2="718" y2="124" stroke="#06B6D4" stroke-width="0.75" opacity="0.2"/>
+  <!-- Hanko text: top = ジャクソン -->
+  <text x="718" y="68" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#06B6D4" opacity="0.5" text-anchor="middle" letter-spacing="2">ジャクソン</text>
+  <!-- Hanko text: bottom = ホワイト -->
+  <text x="718" y="98" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#06B6D4" opacity="0.5" text-anchor="middle" letter-spacing="2">ホワイト</text>
+
+  <!-- Eyebrow label -->
+  <text x="36" y="38" font-family="'Courier New', monospace" font-size="10" font-weight="400" fill="#06B6D4" letter-spacing="4" opacity="0.8">FULL-STACK DEVELOPER · 東京</text>
+
+  <!-- Main name -->
+  <text x="34" y="90" font-family="'Segoe UI', system-ui, sans-serif" font-size="38" font-weight="700" fill="#E2E8F0" letter-spacing="0.5">Jackson White</text>
+
+  <!-- Katakana — teal, sits just below name -->
+  <text x="36" y="118" font-family="system-ui, sans-serif" font-size="15" font-weight="400" fill="#06B6D4" letter-spacing="3">ジャクソン・ホワイト</text>
+
+  <!-- Subtitle -->
+  <text x="36" y="143" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="400" fill="#475569" letter-spacing="0.8">Setagaya, Tokyo  ·  Spousal Visa — No Sponsorship Required  ·  Available Immediately</text>
 </svg>
 
 <br/><br/>
@@ -154,7 +201,7 @@ More at [jackson.dev/work](https://jackson.dev/work) — Blue Barn Farms · Rock
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonwhite4725&show_icons=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0&ring_color=06B6D4)&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonwhite4725&show_icons=true&hide_border=true&hide_rank=true&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0)&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonwhite4725&layout=compact&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0)
 
 </div>
