@@ -39,7 +39,7 @@ identity:
   location:       "Setagaya, Tokyo, Japan"
   visa:           "Spousal visa — no sponsorship required"
   availability:   "Full-time, in-office · Tokyo"
-  languages:      [ "English (native)", "Japanese (conversational, daily use)" ]
+  languages:      [ "English (native)", "Japanese (conversational/basic, daily use)" ]
 
 currently:
   role:           "Founder & Lead Developer @ Launch Turtle"
