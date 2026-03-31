@@ -1,8 +1,3 @@
-<!-- ============================================================
-     JACKSON WHITE — GitHub Profile README v2
-     Tokyo Corporate Cyberpunk · March 2026
-     ============================================================ -->
-
 <div align="center">
 
 <!-- Custom SVG banner — Tokyo Corporate Cyberpunk -->
@@ -65,7 +60,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jackson.dev-06B6D4?style=flat-square&labelColor=0F172A)](https://jackson.dev)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-launchturtle.com-06B6D4?style=flat-square&labelColor=0F172A)](https://launchturtle.com/work)&nbsp;
 [![Email](https://img.shields.io/badge/Email-jackson.white%40launchturtle.com-06B6D4?style=flat-square&labelColor=0F172A&logo=gmail&logoColor=06B6D4)](mailto:jackson.white@launchturtle.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=flat-square&labelColor=0F172A&logo=linkedin&logoColor=06B6D4)](https://linkedin.com/in/jackson-white-dev)&nbsp;
 [![Launch Turtle](https://img.shields.io/badge/Studio-launchturtle.com-06B6D4?style=flat-square&labelColor=0F172A)](https://launchturtle.com)
@@ -183,36 +178,15 @@ Digital martial arts platform with custom video integration, category filtering,
 
 ---
 
-**[Sandstone Travels](https://www.sandstonetravels.com)** — Lead Developer · Siem Reap, Cambodia
+More at [jackson.dev/work](https://launchturtle.com/work) — Blue Barn Farms · Rocky Mountain Handyworks · SOLAGAPE · Ulrich Semi Consulting
 
-カンボジアを拠点とする高級旅行会社のウェブサイト。時差を超えた国際プロジェクト管理と、カスタム予約照会システム（メール自動化付き）を実装。ローンチ後、問い合わせ件数が大幅に増加。
-
-Luxury travel booking platform for a Cambodia-based operator. Custom inquiry system with email automation. Significant increase in booking inquiries post-launch.
-
-`Astro` · `React` · `TypeScript` · `SendGrid`
-
----
-
-More at [jackson.dev/work](https://jackson.dev/work) — Blue Barn Farms · Rocky Mountain Handyworks · SOLAGAPE · Ulrich Semi Consulting
-
-その他の案件は [jackson.dev/work](https://jackson.dev/work) をご覧ください。
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksonwhite4725&show_icons=true&hide_border=true&hide_rank=true&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonwhite4725&layout=compact&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0)
-
-</div>
+その他の案件は [jackson.dev/work](https://launchturtle.com/work) をご覧ください。
 
 ---
 
 <div align="center">
 
-**[jackson.dev](https://jackson.dev)** · Setagaya, Tokyo · jackson.white@launchturtle.com
+**[About Me](https://launchturtle.com/about)** · Setagaya, Tokyo · jackson.white@launchturtle.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=jacksonwhite4725&style=flat-square&color=06B6D4&label=profile+views&labelColor=0F172A)
 
