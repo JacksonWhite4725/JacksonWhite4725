@@ -178,9 +178,9 @@ Digital martial arts platform with custom video integration, category filtering,
 
 ---
 
-More at [jackson.dev/work](https://launchturtle.com/work) — Blue Barn Farms · Rocky Mountain Handyworks · SOLAGAPE · Ulrich Semi Consulting
+More at [launchturtle.com/work](https://launchturtle.com/work) — Blue Barn Farms · Rocky Mountain Handyworks · SOLAGAPE · Ulrich Semi Consulting
 
-その他の案件は [jackson.dev/work](https://launchturtle.com/work) をご覧ください。
+その他の案件は [launchturtle.com/work](https://launchturtle.com/work) をご覧ください。
 
 ---
 
