@@ -86,6 +86,8 @@ I founded and run two companies: **Launch Turtle**, a web development studio ser
 
 **Launch Turtle**（ウェブ開発スタジオ）と**VaultTag**（ホームインベントリSaaS）という2つの会社を設立・運営しています。フロントエンドからバックエンド、モバイル開発まで一貫して担当できます。
 
+I also do AI governance consulting for regulated industries — building compliance frameworks, algorithmic fairness testing systems, and audit documentation for US healthcare AI. Hoping to expand this skillset to Japan as well. 医療AIのガバナンスフレームワークや規制対応も手がけています。
+
 Currently seeking full-time, in-office engineering roles at Tokyo-based tech companies. I am on a spousal visa — no sponsorship required, available immediately. My Japanese is conversational and I use it daily; I am committed to professional fluency.
 
 東京のテック企業でのフルタイム・オフィス勤務の機会を積極的に探しています。配偶者ビザを保有しており、スポンサーは不要です。すぐに就業可能です。日本語は日常的に使用しており、ビジネスレベルを目指して継続的に学習中です。
